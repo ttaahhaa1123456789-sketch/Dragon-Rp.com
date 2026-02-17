@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="fa">
 <head>
 <meta charset="UTF-8">
@@ -429,9 +428,8 @@ footer{
     <h2>IP سرور</h2>
     <span id="ip-text">127.0.0.1:7777</span>
     <div id="copy-msg">کپی شد ✔</div>
-  </section>
 </center>
-</section>
+
 </center>
 
 <footer>
